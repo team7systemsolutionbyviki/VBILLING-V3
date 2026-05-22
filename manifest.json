@@ -1,0 +1,24 @@
+{
+  "name": "V MASTER BILLING - Wholesale POS",
+  "short_name": "VMaster POS",
+  "description": "Professional Grocery Wholesale & Patti Billing Management System with offline capability.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1a30",
+  "theme_color": "#1e40af",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081840.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081840.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
